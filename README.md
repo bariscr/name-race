@@ -3,9 +3,9 @@ Changes in most popular names are visualized. Data is from Turkstat web site.
 
 1. Data is acquired in excel format from
 
-http://www.turkstat.gov.tr/PreIstatistikTablo.do?istab_id=1332  
+https://data.tuik.gov.tr/Bulten/DownloadIstatistikselTablo?p=Ve4Dx5y3H5ojfs6AW6fAopXEEaWfEVPKI7ceqGlZ1BCBWahhX0875ZnoLTrFh/jA  
 
-http://www.turkstat.gov.tr/PreIstatistikTablo.do?istab_id=1331
+https://data.tuik.gov.tr/Bulten/DownloadIstatistikselTablo?p=q23Bjb4aUdhTvYLrXaeY1JWxIT0LanlzEmoJvZ9bjwB4XpP/7agrU9txmnOZ1Xwh
 
 2. Data is provided seperately for boys and girls, so it is brought together and uploaded to github.
 
