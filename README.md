@@ -14,3 +14,4 @@ https://data.tuik.gov.tr/Bulten/DownloadIstatistikselTablo?p=q23Bjb4aUdhTvYLrXae
 https://stackoverflow.com/questions/53162821/animated-sorted-bar-chart-with-bars-overtaking-each-other
 
 4. Further transformations are made, which are available in the code file and output gif file is produced.
+ 
